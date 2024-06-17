@@ -5,6 +5,9 @@ contributor:
     agent_name: Luckner, Count
     gutenberg_agent_id: '57212'
     url: http://www.gutenberg.org/2009/agents/57212
+covers:
+- cover_type: archival
+  image_path: 73765-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Thomas, Lowell
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51420
     wikipedia: https://en.wikipedia.org/wiki/Lowell_Thomas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73765#Count-Luckner-the-sea-devil
 gutenberg_issued: '2024-06-03'
 gutenberg_type: Text
 identifiers:
